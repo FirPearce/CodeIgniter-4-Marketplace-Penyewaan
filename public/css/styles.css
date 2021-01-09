@@ -1,0 +1,8 @@
+header {
+  background-size: cover;
+}
+
+.navbar.navbar-light.navbar-expand-md {
+  z-index: 99;
+}
+
